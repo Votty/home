@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,IAAI,CAAC;EACD,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;CAKb;;AAPD,AAII,IAJA,CAIA,IAAI,CAAC;EACD,UAAU,EAAE,MAAM;CACrB;;AAGL,AAAA,EAAE,EAAE,EAAE,EAAE,EAAE,EAAE,EAAE,EAAE,EAAE,EAAE,EAAE,EAAE,CAAC,EAAE,CAAC,EAAE,IAAI,CAAC;EAC/B,WAAW,EAAE,qBAAqB;CACrC",
+    "sources": [
+        "votty.scss"
+    ],
+    "names": [],
+    "file": "votty.css"
+}
